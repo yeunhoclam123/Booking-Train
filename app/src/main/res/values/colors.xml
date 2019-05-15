@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff0007</color>
+    <color name="colorPrimaryDark">#ff0007</color>
+    <color name="colorBrowsuger">#af6e4d</color>
+    <color name="dark_blue">#00b5ff</color>
+    <color name="red">#ff0007</color>
+    <color name="purple">#898989</color>
+    <color name="font">#A8FFFFFF</color>
+    <color name="line">#FFFFFF</color>
+
+    <color name="background_edittext">#45918F8F</color>
+</resources>
